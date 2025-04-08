@@ -1,0 +1,4 @@
+site_name: mkdocs
+site_url: https://szxzip.github.io/mkdocs
+theme:
+  name: material
