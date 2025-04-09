@@ -1,6 +1,7 @@
 site_name: mkdocs
 site_url: https://szxzip.github.io/mkdocs
 repo_url: https://github.com/szxzip/mkdocs
+repo_name: szxzip/mkdocs
 theme:
   name: material
   palette:
