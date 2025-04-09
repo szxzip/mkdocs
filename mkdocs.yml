@@ -15,7 +15,7 @@ theme:
     code: Noto Sans Mono
 plugins:
   - search
-copyright: &copy; 2025 szxzip, CC BY-SA 4.0
+copyright: © 2025 szxzip, CC BY-SA 4.0
 extra:
   social:
     - icon: fontawesome/brands/github
