@@ -1,4 +1,24 @@
 site_name: mkdocs
 site_url: https://szxzip.github.io/mkdocs
+repo_url: https://github.com/szxzip/mkdocs
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: light blue
+  logo:
+  favicon:
+  language: en
+  font:
+    text: Noto Sans
+    code: Noto Sans Mono
+plugins:
+  - search
+copyright: &copy; 2025 szxzip, CC BY-SA 4.0
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/szxzip
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/szxzip
